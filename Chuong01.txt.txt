@@ -2,4 +2,6 @@
 
 	echo" Hello World";
 
+	echo" Hom nay rat lanh";
+
 <?>
