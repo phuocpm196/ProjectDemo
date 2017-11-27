@@ -1,11 +1,7 @@
-
 <?php >
 
 	echo" Hello World";
 
 	echo" Hom nay rat lanh";
 
-	echo" Hom nay toi rat khoe";
-
 <?>
-
